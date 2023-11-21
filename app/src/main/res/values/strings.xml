@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TaskAppAndroidKotlin</string>
+    <string name="my_tasks">My Tasks</string>
+    <string name="search_your_own_task">Search your own task</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notes_title">Notes Title</string>
+    <string name="storage_permission_text">This app needs access to your storage</string>
+    <string name="notes_sub_title">Notes Sub Title</string>
+    <string name="enter_note_here">Enter note here</string>
+    <string name="my_notes">My notes</string>
+
+    <string name="notes">My Notes</string>
+    <string name="notes_desc">Enter Note Here</string>
+    <string name="web_url">Enter Web Url</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search your notes</string>
+
+    <string name="finish">FINISH</string>
+    <string name="next">NEXT</string>
+
+</resources>
